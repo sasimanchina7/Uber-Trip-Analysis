@@ -4,6 +4,8 @@
 
  In 2015, as Uber's presence in NYC grew, there was increasing pressure on the city government to make ride-hailing data public, just as they had already done for yellow and green taxis. Journalists, data scientists, and transparency advocates pushed for access, and under FOIL law, the TLC released this data.
  Each record is a combination of:
+ 
+ <img width="1536" height="1024" alt="Uber" src="https://github.com/user-attachments/assets/6c8ad08c-9e09-4fee-b420-bf20c41a10ba" />
 
 A base ID (e.g., B02512) – which dispatches drivers
 A date (in Jan or Feb 2015)
